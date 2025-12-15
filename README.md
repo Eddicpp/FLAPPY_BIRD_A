@@ -99,6 +99,10 @@ Score: 35 | AI uses speed strategically
 
 
 
+https://github.com/user-attachments/assets/eb979710-8a34-45ec-b569-7bb939ea619d
+
+
+
 ---
 
 ## 🧠 How It Works
