@@ -5,7 +5,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-00979D?logo=arduino&logoColor=white)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Q--Learning-orange)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 A complete implementation of **tabular Q-Learning** from scratch on Arduino Mega, demonstrating reinforcement learning principles on resource-constrained embedded hardware. The AI learns through trial and error, discovering optimal strategies to navigate obstacles and maximize survival time.
@@ -565,18 +564,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-```
-MIT License - Copyright (c) 2024
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, modify, and distribute for any purpose.
-```
-
----
-
 ## 🙏 Acknowledgments
 
 ### Inspiration & Theory
@@ -601,7 +588,7 @@ of this software to use, modify, and distribute for any purpose.
 **Eduardo Pane**
 - 📧 Email: eduardo.pane04@example.com
 
-**Project Link:** [https://github.com/yourusername/flappy-bird-qlearning](https://github.com/yourusername/flappy-bird-qlearning)
+**Project Link:** [https://github.com/Eddicpp/flappy-bird-qlearning](https://github.com/Eddicpp/flappy-bird-qlearning)
 
 ---
 
