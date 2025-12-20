@@ -586,7 +586,7 @@ Contributions are welcome! Here's how you can help:
 ## 📬 Contact
 
 **Eduardo Pane**
-- 📧 Email: eduardo.pane04@example.com
+- 📧 Email: eduardo.pane04@gmail.com
 
 **Project Link:** [https://github.com/Eddicpp/flappy-bird-qlearning](https://github.com/Eddicpp/flappy-bird-qlearning)
 
@@ -608,8 +608,8 @@ If you found this project interesting or helpful:
 
 **Learning one episode at a time**
 
-[Report Bug](https://github.com/yourusername/flappy-bird-qlearning/issues) · 
-[Request Feature](https://github.com/yourusername/flappy-bird-qlearning/issues) · 
-[Discuss](https://github.com/yourusername/flappy-bird-qlearning/discussions)
+[Report Bug](https://github.com/Eddicpp/flappy-bird-qlearning/issues) · 
+[Request Feature](https://github.com/Eddicpp/flappy-bird-qlearning/issues) · 
+[Discuss](https://github.com/Eddicpp/flappy-bird-qlearning/discussions)
 
 </div>
